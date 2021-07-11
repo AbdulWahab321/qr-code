@@ -1,0 +1,16 @@
+{
+  "expo": {
+   "name": "Your App Name",
+   "icon": "./assets/images.png",
+   "version": "1.0.0",
+   "slug": "qrcode-generator-and-scanner-by-abdulwahab",
+   "ios": {
+     "bundleIdentifier": "app.by.abdulwahab",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "app.by.abdulwahab",
+     "versionCode": 1
+   }
+  }
+}
